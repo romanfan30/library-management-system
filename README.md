@@ -218,10 +218,3 @@ SET password = '$2a$10$YwzpckiB/VhXrQO57wHJMu8iPS3fjeFWpPD06KDC/xWhKAKrFr782';
 
 Этот хеш соответствует паролю `password123`.
 
-## Полезные материалы
-
-- [Spring Boot Reference](https://docs.spring.io/spring-boot/index.html)
-- [Spring Data JPA Reference](https://docs.spring.io/spring-data/jpa/reference/index.html)
-- [Spring Security Reference](https://docs.spring.io/spring-security/reference/index.html)
-- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/)
-- [Mockito Documentation](https://javadoc.io/doc/org.mockito/mockito-core/latest/org.mockito/org/mockito/Mockito.html)
